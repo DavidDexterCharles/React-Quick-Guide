@@ -17,4 +17,12 @@
 
 2.[POST call from reactJS code](https://stackoverflow.com/questions/38510640/how-to-make-a-rest-post-call-from-reactjs-code)
 
-3. [Props](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
+3.[Props](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
+
+4.[Props and State](https://www.youtube.com/watch?v=qh3dYM6Keuw)
+
+5.[Events and Data Change](https://www.youtube.com/watch?v=_D1JGNidMr4)
+
+5.[React Router](https://www.youtube.com/watch?v=1iAG6h9ff5s)
+
+6.[React Router Params and Queries](https://www.youtube.com/watch?v=ZBxMljq9GSE)
