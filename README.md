@@ -30,3 +30,5 @@
 7.[Axios Usage](https://alligator.io/react/axios-react/)
 
 8.[Axios Usage 2](https://www.npmjs.com/package/react-axios)
+
+9.[React Routing Training](https://reacttraining.com/react-router/web/example/basic)
