@@ -28,3 +28,5 @@
 6.[React Router Params and Queries](https://www.youtube.com/watch?v=ZBxMljq9GSE)
 
 7.[Axios Usage](https://alligator.io/react/axios-react/)
+
+8.[Axios Usage 2](https://www.npmjs.com/package/react-axios)
