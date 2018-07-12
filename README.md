@@ -32,3 +32,5 @@
 8.[Axios Usage 2](https://www.npmjs.com/package/react-axios)
 
 9.[React Routing Training](https://reacttraining.com/react-router/web/example/basic)
+
+10.[React App Deployment](https://medium.freecodecamp.org/i-built-this-now-what-how-to-deploy-a-react-app-on-a-digitalocean-droplet-662de0fe3f48)
